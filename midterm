@@ -5,15 +5,13 @@
     <meta charset="UTF-8">
     <meta name="description" content="IT030 midterm by Malachi Sydney">
     <meta name="keywords" content="HTML, CSS, JavaScript">
-    <meta name="author" content="Professor Rahman">
+    <meta name="Malachi Sydney" content="Professor Rahman">
   <title>Title of the document</title>
   </head>
 <div class = "grid">
 <nav id="mainNav">
-
-d
 <ul>
-<li><a href="">Home<li<
+<li><a href="">Home<li>
 <li>About<li>
 <li>Portfolio<li>
 </ul>
@@ -21,11 +19,10 @@ d
 
 <article>
 <h2>Photography<h2>
-
 <p>
 Photography is the art, application, and practice of creating durable images by recording light, either electronically by means of an image sensor, or chemically by means of a light-sensitive material such as photographic film
 </p>
-
+</article>
 <div id="first_sidebar">
 <h1>Aside 1</h1>
 </div>
@@ -51,6 +48,11 @@ Photography is the art, application, and practice of creating durable images by 
 
  The word "photography" was created from the Greek roots φωτός (phōtós), genitive of φῶς (phōs), "light"[2] and γραφή (graphé) "representation by means of lines" or "drawing",[3] together meaning "drawing with light".
   </div>  
+
+  <footer>
+  	<p> </p>
+  	<p></p>
+  </footer>
 
  </body>
 
