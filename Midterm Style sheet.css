@@ -110,7 +110,7 @@ body {
  h1, h2{
      color: black;
 }
- article {
+ .Home {
     float: left;
     background-color: #eee;
     border: 1px solid black;

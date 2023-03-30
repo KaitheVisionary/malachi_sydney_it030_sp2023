@@ -11,8 +11,8 @@
 <div class = "grid">
 <nav id="mainNav">
 <ul>
-<li><a href="">Home<li>
-<li>About<li>
+<li><a herf = "midterm">Home<li>
+<li><a href="About_Page.html">About<li>
 <li>Portfolio<li>
 </ul>
 </nav>
