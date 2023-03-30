@@ -1,21 +1,57 @@
 <!DOCTYPE html>
-<body>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="IT030 midterm by Malachi Sydney">
+    <meta name="keywords" content="HTML, CSS, JavaScript">
+    <meta name="author" content="Professor Rahman">
+  <title>Title of the document</title>
+  </head>
 <div class = "grid">
 <nav id="mainNav">
 
+d
 <ul>
-<li>Home<
+<li><a href="">Home<li<
 <li>About<li>
-<li>Contact<li>
+<li>Portfolio<li>
 </ul>
 </nav>
 
 <article>
-<h2>Using media queries<h2>
+<h2>Photography<h2>
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Photography is the art, application, and practice of creating durable images by recording light, either electronically by means of an image sensor, or chemically by means of a light-sensitive material such as photographic film
 </p>
+
+<div id="first_sidebar">
+<h1>Aside 1</h1>
+</div>
+
+<div id ="second_sidebar">
+<h1>Aside 2</h1>
+</div>
+
+<div class = "flex-container">
+<figure>
+               <img src=
+               title=
+                width="200" 
+                height="200">
+               <p>
+                  </p><figcaption>
+                     Photo by <a href="https://unsplash.com/@kalenemsley?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Kalen Emsley</a> on <a href="https://unsplash.com/images/nature/mountain?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>
+                  </figcaption>
+            </figure>
+
+         <div>
+
+
+ The word "photography" was created from the Greek roots φωτός (phōtós), genitive of φῶς (phōs), "light"[2] and γραφή (graphé) "representation by means of lines" or "drawing",[3] together meaning "drawing with light".
+  </div>  
+
  </body>
 
 </html>
