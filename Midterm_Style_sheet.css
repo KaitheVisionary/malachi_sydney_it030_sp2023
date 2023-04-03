@@ -124,7 +124,7 @@ article {
     margin: 6px;
     padding: 5px;
 }
- .About_flex-container #description {
+ .About_flex-container {
     float: left;
     height: 420px;
     width: 651px;
@@ -134,7 +134,7 @@ article {
     margin: 6px;
     padding: 5px;
 }
- .About_flex-container #description {
+ .About_second_sidebar {
     display: flex;
     align-items: center;
     justify-content: left;
