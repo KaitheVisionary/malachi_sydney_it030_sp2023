@@ -144,6 +144,7 @@ article {
     margin: 6px;
     padding: 5px;
     width: 260px;
+    font-size: 12px
 }
 #sidebar {
 display: none;
