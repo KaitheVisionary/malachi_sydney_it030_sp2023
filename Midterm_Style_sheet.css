@@ -197,11 +197,11 @@ article {
     height: 944px;
     width: 180px;
 }
-#Portfolio_second_sidebar {
+#Portfolio_sidebar {
     width: 180px;
     height: 944px;
 }
-.Second_flex-container {
+.Portfolio_flex-container {
     width: 528px;
     position: absolute;
     top: 858px;
