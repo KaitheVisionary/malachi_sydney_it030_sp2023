@@ -120,7 +120,7 @@ body {
     margin: 6px;
     padding: 5px;
 }
- #second_sidebar {
+ #About_first_sidebar {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -131,7 +131,18 @@ body {
     padding: 5px;
     width: 221px;
 }
- .flex-container {
+ #About_second_sidebar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    float: right;
+    border: 1px solid black;
+    height: 720px;
+    margin: 6px;
+    padding: 5px;
+    width: 221px;
+}
+ .Second_flex-container {
     float: left;
     height: 222px;
     width: 691px;
@@ -182,15 +193,15 @@ article {
     margin: 6px;
     padding: 5px;
 }
-#second_sidebar{
+#Portfolio_first_sidebar{
     height: 944px;
     width: 180px;
 }
-#sidebar {
+#Portfolio_second_sidebar {
     width: 180px;
     height: 944px;
 }
-.flex-container {
+.Second_flex-container {
     width: 528px;
     position: absolute;
     top: 858px;
